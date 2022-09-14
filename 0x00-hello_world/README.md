@@ -1,1 +1,1 @@
-the script compiles a C file and creates an executable named cisfun
+the script prints a C program followed by a new line
